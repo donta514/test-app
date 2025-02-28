@@ -1,7 +1,7 @@
 const http = require("http");
 
 http.createServer(function(req, res) {
-	res.write("On the way to being a full stack engineer");
+	res.write("We’re under construction 🚧 but don’t worry, no hard hats required. Back soon!");
 	res.end();
 }
 ).listen(3000);
